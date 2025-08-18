@@ -4,7 +4,7 @@ A simple **Virtual Reality Solar System** built with [A-Frame](https://aframe.io
 This project recreates the Sun and planets with textures and rotation animations, offering an immersive VR experience directly in the browser.  
 
 ## 🚀 Live Demo
-[![GitHub Pages](https://img.shields.io/badge/View%20Live%20Demo-%2300C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kojo-san/solarSystemVR/)
+[![GitHub Pages](https://img.shields.io/badge/View%20Live%20Demo-%2300C853?style=for-the-badge&logo=github&logoColor=white)](https://kojo-san.github.io/solarSystemVR/)
 
 ## ✨ Features
 - 🌞 Animated rotating Sun  
